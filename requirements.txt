@@ -1,0 +1,5 @@
+pandas==2.3.3
+streamlit==1.53.1
+plotly==6.5.2
+rfm==1.0.9
+python-dotenv==1.2.1

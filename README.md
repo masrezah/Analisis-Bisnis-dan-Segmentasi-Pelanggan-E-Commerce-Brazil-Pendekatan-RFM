@@ -1,5 +1,11 @@
 # 📊 E-Commerce Business Confirmation & Customer Segmentation
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gicksxvghxm68fkhd2iagv.streamlit.app/)
+
+> **Lihat Dashboard Interaktif secara langsung di sini: [Klik di Sini](https://gicksxvghxm68fkhd2iagv.streamlit.app/)**
+
+---
+
 Dashboard ini dibangun untuk menganalisis performa bisnis **Olist (E-Commerce Brazil)** secara menyeluruh. Proyek ini tidak hanya menampilkan angka, tetapi memberikan **rekomendasi strategis** berbasis data.
 
 ## 🚀 Fitur Utama & Nilai Jual
